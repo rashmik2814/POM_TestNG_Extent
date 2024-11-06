@@ -1,7 +1,0 @@
-base\BasePage.class
-pages\LoginPage.class
-utils\Utilities.class
-pages\SelectHotelPage.class
-utils\ExtentManager.class
-pages\SearchHotelPage.class
-utils\ReportLog.class
